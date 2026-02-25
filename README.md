@@ -101,5 +101,6 @@ Educational Purpose
 
 This project is intended as a demonstration of how to build educational AI agents using Google ADK and Gemini models.
 
-🙌 Acknowledgements
-  Google Skills
+## 🙏 Acknowledgements
+
+Google Skills
