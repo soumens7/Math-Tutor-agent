@@ -103,4 +103,4 @@ This project is intended as a demonstration of how to build educational AI agent
 
 ## 🙏 Acknowledgements
 
-Google Skills
+[Google Skills](https://www.skills.google/)
