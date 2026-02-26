@@ -36,7 +36,7 @@ instruction='You are a patient math tutor. Help students with algebra problems.'
 
 ⸻
 
-## ![alt text](<Screenshot 2026-02-26 at 10.08.00 AM.png>)
+## ![alt text](Screenshot 2026-02-26 at 10.08.00 AM.png)
 
 ## Prerequisites
 
